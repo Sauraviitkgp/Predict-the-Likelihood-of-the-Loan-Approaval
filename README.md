@@ -12,3 +12,5 @@ Data Description
 3) Bureau: with _b suffix (these refer to his tradeline information with other banks, their inquiry information, delinquency info etc)
 
 4) target: '1' means the loan is approved and '0' indicates the loan is reject
+
+Dataset link- 
